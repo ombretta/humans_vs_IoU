@@ -1,4 +1,4 @@
-# Image aesthetics prediction
+# Humans disagree with the IoU metric
 
 ## Description
 Official repository of the paper "Humans disagree with the IoU for measuring object detector localization error", 
